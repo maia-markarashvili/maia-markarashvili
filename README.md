@@ -35,4 +35,4 @@ I connect **business, people, technology and execution** — turning ideas into 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/maia-markarashvili/))
+[LinkedIn](https://www.linkedin.com/in/maia-markarashvili/)
