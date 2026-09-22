@@ -10,7 +10,11 @@ I have worked on projects within **commercial banking and core banking environme
 
 I am currently expanding my technical skills in **programming, AI-assisted development, and digital product building**, with a focus on turning ideas into working products.
 
-## What I Bring
+## What I'm Building
+
+Currently exploring and building **digital products and business solutions**, combining my experience in business, product management, technology, and execution.
+
+My current focus includes:
 
 - Project & Program Management
 - Product Management & Development
@@ -23,11 +27,11 @@ I am currently expanding my technical skills in **programming, AI-assisted devel
 - Digital Product Development
 - Go-to-Market & Launch
 
-## What I'm Building
-
-🎮 Digital products and game concepts  
-💻 Technical and AI-assisted projects  
-🚀 Product experiments and prototypes
+- 💡 Business and product concepts
+- 🚀 Digital product development
+- 💻 Technology and AI-assisted solutions
+- 📊 Process and systems improvement
+- 🔎 Product experiments and prototypes
 
 ## My Approach
 
